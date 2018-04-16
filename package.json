@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node EmployeeDB/app"
   },
-  "main": "EmployeeDB/app"
+
   "dependencies": {
     "express": "3.1.0",
     "jade": "*",
